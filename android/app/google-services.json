@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975362009549",
+    "project_id": "fir-getx-app-5c6a4",
+    "storage_bucket": "fir-getx-app-5c6a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975362009549:android:e00c5baa6b1aedef717c84",
+        "android_client_info": {
+          "package_name": "com.getx.medilift.firebaseApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975362009549-pij19gc35bbbcbt3aiqcd552qei63l8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD76NW9pSb2isGMFAskwwXp4lMtojg_oBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975362009549-pij19gc35bbbcbt3aiqcd552qei63l8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
